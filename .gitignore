@@ -4,6 +4,7 @@ dist/
 .DS_Store
 
 # Release / dev artifacts
+package.zip
 repo.zip
 test_flow.py
 generated-images/
