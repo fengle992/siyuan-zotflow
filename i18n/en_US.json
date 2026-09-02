@@ -1,0 +1,22 @@
+{
+  "syncIncremental": "Incremental Sync",
+  "syncFull": "Full Overwrite Sync",
+  "notebook": "Target Notebook",
+  "notebookDesc": "Obsidian notes will be imported into this notebook",
+  "notePath": "Target Path",
+  "notePathDesc": "Path inside the notebook, e.g. /ZotFlow; notes are imported as its child docs",
+  "obsidianDir": "Obsidian Notes Directory",
+  "obsidianDirDesc": "Absolute path to the Obsidian notes directory to sync",
+  "obsidianDirNotSet": "Please configure the Obsidian notes directory in settings first",
+  "incrementalStarted": "Starting incremental sync…",
+  "incrementalDone": "Incremental sync done: {{created}} created, {{updated}} updated, {{deleted}} deleted, {{failed}} failed",
+  "fullSyncStarted": "Starting full overwrite sync…",
+  "fullSyncDone": "Full sync done: {{imported}} imported, {{failed}} failed",
+  "syncFailed": "Sync failed: ",
+  "fullSyncAction": "Run Full Overwrite Sync Now",
+  "fullSyncActionDesc": "Delete all docs under /ZotFlow and re-import everything; use after a large source reorganization (flashcard/block references will be lost)",
+  "fullSyncConfirm": "Full overwrite sync will delete all docs under /ZotFlow and re-import them. Flashcards and block references will be lost. Continue?",
+  "fsNotAvailable": "Cannot access local file system. Please run the plugin in the main SiYuan window.",
+  "notConfigured": "Please select a target notebook in settings first",
+  "settingsSaved": "Settings saved"
+}

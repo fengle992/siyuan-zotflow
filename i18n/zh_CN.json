@@ -1,0 +1,22 @@
+{
+  "syncIncremental": "增量同步",
+  "syncFull": "全量覆盖同步",
+  "notebook": "目标笔记本",
+  "notebookDesc": "Obsidian 笔记将导入到该笔记本",
+  "notePath": "目标路径",
+  "notePathDesc": "笔记本内路径，如 /ZotFlow，所有笔记作为其子文档导入",
+  "obsidianDir": "Obsidian 笔记目录",
+  "obsidianDirDesc": "Obsidian 中需要同步的笔记目录（磁盘绝对路径）",
+  "obsidianDirNotSet": "请先在设置中填写 Obsidian 笔记目录",
+  "incrementalStarted": "开始增量同步…",
+  "incrementalDone": "增量同步完成：新增 {{created}}，更新 {{updated}}，删除 {{deleted}}，失败 {{failed}}",
+  "fullSyncStarted": "开始全量覆盖同步…",
+  "fullSyncDone": "全量同步完成：已导入 {{imported}} 篇，失败 {{failed}} 篇",
+  "syncFailed": "同步失败：",
+  "fullSyncAction": "立即全量覆盖同步",
+  "fullSyncActionDesc": "删除 /ZotFlow 下全部文档后重新全量导入，适用于源目录大改后彻底重刷（会丢失闪卡/块引用）",
+  "fullSyncConfirm": "全量覆盖同步会删除 /ZotFlow 下全部文档并重新导入，闪卡、块引用等关联将失效。确定继续？",
+  "fsNotAvailable": "无法访问本地文件系统，请确认在思源主窗口中运行插件",
+  "notConfigured": "请先在设置中选择目标笔记本",
+  "settingsSaved": "设置已保存"
+}

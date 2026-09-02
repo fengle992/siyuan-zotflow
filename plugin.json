@@ -1,0 +1,22 @@
+{
+  "name": "siyuan-zotflow",
+  "author": "fengl",
+  "url": "https://github.com/fengl/siyuan-zotflow",
+  "version": "0.5.0",
+  "minAppVersion": "3.0.0",
+  "backends": ["all"],
+  "frontends": ["all"],
+  "displayName": {
+    "default": "ZotFlow Sync",
+    "zh_CN": "ZotFlow 同步"
+  },
+  "description": {
+    "default": "Sync Obsidian ZotFlow literature notes into SiYuan with incremental sync. Block IDs are preserved for unchanged content, so flashcards and block refs keep working.",
+    "zh_CN": "把 Obsidian 的 ZotFlow 文献笔记增量同步到思源。未变动内容的块 ID 保持不变，闪卡、块引用与反向链接持续有效。"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README.md"
+  },
+  "funding": {}
+}
