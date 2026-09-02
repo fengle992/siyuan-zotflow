@@ -53,7 +53,7 @@
 ### 源码构建
 
 ```bash
-git clone https://github.com/fengl/siyuan-zotflow
+git clone https://github.com/fengle992/siyuan-zotflow
 cd siyuan-zotflow
 npm install            # 国内可加 --registry=https://registry.npmmirror.com
 npm run build          # 产出 index.js / index.css

@@ -1,7 +1,7 @@
 {
   "name": "siyuan-zotflow",
-  "author": "fengl",
-  "url": "https://github.com/fengl/siyuan-zotflow",
+  "author": "fengle992",
+  "url": "https://github.com/fengle992/siyuan-zotflow",
   "version": "0.5.0",
   "minAppVersion": "3.0.0",
   "backends": ["all"],
