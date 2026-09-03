@@ -1,6 +1,6 @@
 {
   "name": "siyuan-zotflow",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Sync Obsidian ZotFlow literature notes into SiYuan with incremental sync and block-ID preservation",
   "type": "module",
   "main": "index.js",

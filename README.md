@@ -4,7 +4,7 @@
 
 > 版本：v0.5.0 · 要求思源 ≥ 3.0.0（桌面端主窗口运行）
 
-本项目源自 Obsidian 社区插件 ZotFlow（作者 Xianpi Duan，AGPL-3.0-only）的思源移植，精简聚焦于一件事：**从 Obsidian 同步文献笔记**。
+本项目配合 Obsidian 社区插件 ZotFlow 生成的笔记使用，精简聚焦于一件事：**从 Obsidian 同步文献笔记到思源**。
 
 ---
 
